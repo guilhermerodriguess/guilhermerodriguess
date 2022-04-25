@@ -4,7 +4,7 @@
 <a  align='center' href="https://www.linkedin.com/in/guilhermerodriguessousa/">
   <img src="./linkedin-logo-black-and-white-png-14.avif" width='100em' />
 <a align='center' href="https://www.linkedin.com/in/guilhermerodriguessousa/">
-  <img src="./whatsapp_black_logo_icon_147050.avif" width='100em' />
+  <img src="./whatsapp.avif" width='100em' />
 
 <h1 align='center'>GitHub Status</h1>
 <a href="https://github.com/anuraghazra/convoychat">
