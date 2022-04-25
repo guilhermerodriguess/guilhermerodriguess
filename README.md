@@ -3,7 +3,7 @@
 <h1>Redes sociais</h1>
 
 <a href="https://www.linkedin.com/in/guilhermerodriguessousa/">
-  <img align='center' src="https://enxutaprodutora.com.br/wp-content/uploads/2020/02/linkedin-logo-black-and-white-png-14.png" />
+  <img align='center' src="./linkedin-logo-black-and-white-png-14.avif" />
 
 <h1>GitHub Status</h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
