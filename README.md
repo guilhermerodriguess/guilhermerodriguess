@@ -1,7 +1,6 @@
 <h1 align='center' >Olá 👋, bem vindo ao meu perfil!</h1>
 
 <h1 align='center'>Redes sociais</h1>
-
 <a href="https://www.linkedin.com/in/guilhermerodriguessousa/">
   <img align='center' src="./linkedin-logo-black-and-white-png-14.avif" width='100em' />
 <a href="https://www.linkedin.com/in/guilhermerodriguessousa/">
