@@ -3,8 +3,10 @@
 <h1 align='center'>Redes sociais</h1>
 <a  align='center' href="https://www.linkedin.com/in/guilhermerodriguessousa/">
   <img src="./linkedin-logo-black-and-white-png-14.avif" width='100em' />
+</a>
 <a align='center' href="https://www.linkedin.com/in/guilhermerodriguessousa/">
-  <img src="./whatsapp.png" />
+  <img src="./whatsapp.avif" width='100em'/>
+</a>
 
 <h1 align='center'>GitHub Status</h1>
 <a href="https://github.com/anuraghazra/convoychat">
