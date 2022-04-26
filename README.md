@@ -1,5 +1,5 @@
 <div>
-	<h1 align="center" >Olá, mundo! :earth_americas:<br>meu nome é Guilherme :call_me_hand:
+	<h1 align="center" >Olá, <s>mundo</s>! :earth_americas:<br>meu nome é Guilherme :call_me_hand:
 		<br>
 		<a href="https://guilhermerodriguess.github.io">
 			<img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="">
