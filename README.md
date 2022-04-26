@@ -1,6 +1,6 @@
 <div>
     <h1 align="center" style="color: rgb(108, 108, 108);" >Olá, mundo! :earth_americas:<br>meu nome é Guilherme :call_me_hand:
-      <a style="text-decoration:none;" href="https://guilhermerodriguess.github.io">
+      <br><a style="text-decoration:none;" href="https://guilhermerodriguess.github.io">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="">
       </a>
       <a align="center" href="https://www.linkedin.com/in/guilhermerodriguessousa/">
