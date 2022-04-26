@@ -34,12 +34,12 @@
 	<h1 align='center'>
 		GitHub Status
 	</h1>
-	<div>
+	<div align='center'>
 		<a href="https://github.com/guilhermerodriguess">
-			<img src="https://github-readme-stats.vercel.app/api?username=guilhermerodriguess&show_icons=true&theme=dark" />
+			<img height='150' src="https://github-readme-stats.vercel.app/api?username=guilhermerodriguess&show_icons=true&theme=dark" />
 		</a>
 		<a href="https://github.com/guilhermerodriguess">
-			<img height='196' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodriguess&layout=compact&theme=dark" />
+			<img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerodriguess&layout=compact&theme=dark" />
 		</a>
 	</div>
 </div>
