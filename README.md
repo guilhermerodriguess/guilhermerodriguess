@@ -1,12 +1,11 @@
-  <div>
+<div>
     <h1 align="center" style="color: rgb(108, 108, 108);" >Olá, mundo! :earth_americas:<br>meu nome é Guilherme :call_me_hand:</h1>
     <a style="text-decoration:none;" href="https://guilhermerodriguess.github.io">
       <h2 align="center" style="color: rgb(0, 68, 255);">Portfólio Pessoal</h2>
     </a>
-    <a href="https://www.linkedin.com/in/guilhermerodriguessousa/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+    <a align="center" href="https://www.linkedin.com/in/guilhermerodriguessousa/">
+      <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
     </a>
-    
     <hr width="70%">
     <div style="margin: 0 8em;">
       <p style="text-align: justify;">
