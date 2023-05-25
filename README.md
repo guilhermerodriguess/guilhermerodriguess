@@ -1,5 +1,5 @@
 <div>
-	<h1 align="center" >Olá, <s>mundo</s>! :earth_americas:<br>meu nome é Guilherme :call_me_hand:
+	<h1 align="center" >Hello, <s>world</s>! :earth_americas:<br>my name is Guilherme :call_me_hand:
 		<br>
 		<a href="https://guilhermerodriguess.github.io">
 			<img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="">
@@ -13,15 +13,15 @@
 	</h1>
 	<div>
 		<p>
-			Formado em Gestão de Recursos Humanos pela Unip, estou em transição de carreira, migrando para a área de tecnologia, atualmente estudando desenvolvimento web. Onde finalmente encontrei o que procurava: A constante mudança!
+			Graduated in Human Resources Management from Unip, I'm in a career transition, migrating to the technology area, currently studying web development. Where I finally found what I was looking for: The constant change!
 			<br><br>
-			Me fascina como a programação pode ser desafiadora e gratificante, resolvendo desde problemas simples do nosso cotidiano, até mudar o destino da humanidade.
+			It fascinates me how programming can be challenging and rewarding, solving from simple problems in our daily lives, to changing the destiny of humanity.
 			<br><br>
- 			Hoje estou a procura da primeira oportunidade em uma empresa para adquirir conhecimentos e poder desenvolver minhas habilidades.
+ 			Today I am looking for the first opportunity in a company to acquire knowledge and develop my skills.
 		</p>
 	</div>
 	<h1 align='center'>
-		Habilidades
+		Skills
 	</h1>
 	<div align='center' >
 		<img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='60' height='60'/>
