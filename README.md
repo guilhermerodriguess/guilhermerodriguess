@@ -13,13 +13,11 @@
 	</h1>
 	<div>
 		<p>
-			I'm in a career transition to technology, where I discovered my true passion. I'm currently focused on web development and gaining solid skills in that area.
-			<br><br>
-			I have extensive knowledge in the fundamentals of web development, front-end and back-end, acquired through my course at Trybe. I'm proficient in languages ​​like HTML, CSS and JavaScript, and I'm familiar with libraries and frameworks like React and Express.
-			<br><br>
- 			In addition, I have skills in working with SQL databases, image manipulation with Docker, and software architecture concepts. I am a dedicated learner, always willing to face new challenges and improve my technical skills.
-			<br><br>
-			I look forward to applying my skills and contributing to exciting projects. If you're looking for someone with a strong technical background and a genuine passion for technology, I'm ready to embark on that journey with your team.
+			I'm currently employed in the web development field, where I discovered my true passion. My knowledge in front-end and back-end was acquired during my time at Trybe, where I dedicated myself to various projects involving HTML, CSS, JavaScript, and also explored libraries and frameworks like React and Express. In addition, I have experience working with SQL and NoSQL databases, as well as image manipulation using Docker.
+<br><br>
+In my current role, I am focused on web development using Vue and Nuxt on the front-end, Nest on the back-end, and MongoDB as the database. My next goal is to enhance my skills in mobile app development.
+<br><br>
+If you'd like to connect and exchange experiences in the technology field, please feel free to reach out. I'm always open to conversations and networking with fellow professionals in the industry.
 		</p>
 	</div>
 	<h1 align='center'>
